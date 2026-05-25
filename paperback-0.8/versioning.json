@@ -1,0 +1,18 @@
+{
+  "buildTime": "2026-05-24T19:12:40.327Z",
+  "sources": [
+    {
+      "id": "KaliScan",
+      "name": "KaliScan",
+      "author": "Benjamin",
+      "desc": "Extension that pulls manga from https://kaliscan.io",
+      "website": "https://github.com/benjamin5896",
+      "contentRating": "MATURE",
+      "version": "1.0.0",
+      "icon": "icon.png",
+      "tags": [],
+      "websiteBaseURL": "https://kaliscan.io",
+      "intents": 21
+    }
+  ]
+}
